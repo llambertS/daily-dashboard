@@ -1,0 +1,6 @@
+/modulos/
+venv/
+.idea/
+__pycache__/
+cache_dados/
+painel.db
